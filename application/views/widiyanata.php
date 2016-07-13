@@ -1,24 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Widiyanata's Personal Web Site</title>
-		<meta name="description" content="widiyanata web site, contain his project and any related to him" />
-		<meta name="keywords" content="widiyanata, web developer, front end designer, php developer,  amateur" />
-		<meta name="author" content="Widiyanata" />
-		<link rel="shortcut icon" href="images/logoku.png">
-<!--		<link rel="stylesheet" type="text/css" href="css/component.css" />-->
-		<link rel="stylesheet" type="text/css" href="assets/font-awesome/css/font-awesome.min.css" />
-		<link rel="stylesheet" type="text/css" href="assets/css/main.css" />
-<!--
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Widiyanata's Personal Web Site</title>
+	<meta name="description" content="widiyanata web site, contain his project and any related to him" />
+	<meta name="keywords" content="widiyanata, web developer, front end designer, php developer,  amateur" />
+	<meta name="author" content="Widiyanata" />
+	<link rel="shortcut icon" href="images/logoku.png">
+	<!--		<link rel="stylesheet" type="text/css" href="css/component.css" />-->
+	<link rel="stylesheet" type="text/css" href="assets/font-awesome/css/font-awesome.min.css" />
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css" />
+	<!--
 		<link rel="stylesheet" type="text/css" href="css/style.css" />
 		<link rel="stylesheet" type="text/css" href="css/custom.css" />
 -->
-		<script src="assets/js/modernizr.custom.js"></script>
-	</head>
-	<body>
+	<script src="assets/js/modernizr.custom.js"></script>
+</head>
+
+<body>
 	<!-- Preloader -->
 	<div class="loader">
 		<div class="wrap">
@@ -32,8 +34,8 @@
 	<header id="header" class="">
 		<div class="wrap">
 			<h2><span>I AM</span> WIDIYANATA</h2>
-			<h4>An Amateur Web Developer</h4>
-			<a class="more" href="#">Version 1.0</span></a>
+			<h4>A Web Developer</h4>
+			<a class="more" href="#">Version 1.1</span></a>
 		</div>
 
 	</header>
@@ -58,23 +60,21 @@
 					</div>
 					<div class="desc">
 						<h2>Hi, my name is Widiyanata</h2>
-						<h3>- An amateur Web Developer -</h3>
-						<p>I don't think you really care about my self,
-						what you care about me is what i do, and that is what i want...
+						<h3>- A Web Developer -</h3>
+						<p>I don't think you really care about my self, what you care about me is what i do, and that is what i want...
 						</p>
-						<p>Besides that, I can't describe my self, but if we talk
-						about design, I love simple and minimalis. And I love to solving a problem.</p>
+						<p>Besides that, I can't describe my self, but if we talk about design, I love simple and minimalis. And I love to solving a problem.</p>
 						<p>
 							Iam sorry for bad english.. cause Iam not American or british...
 						</p>
 						<p>
 							Get Social |
-							<a href="#"><strong>facebook</strong></a>
-							<a class="more" href="#"><strong>download CV</strong></a>
+							<a href="https://www.facebook.com/widiyanataisme"><strong>facebook</strong></a>
+							<!--<a class="more" href="#"><strong>download CV</strong></a>-->
 						</p>
 					</div>
 				</div>
-<!--				<span class="bl-icon bl-icon-close"></span>-->
+				<!--<span class="bl-icon bl-icon-close"></span>-->
 				<span class="cd-img-replace close new"></span>
 			</section>
 			<section id="bl-work-section">
@@ -88,7 +88,8 @@
 							<h2>Some Projects</h2>
 							<a href="#0" class='cd-btn' data-action="show-projects">Show Me</a>
 						</div>
-					</div> <!-- .cd-intro-block -->
+					</div>
+					<!-- .cd-intro-block -->
 					<!-- projects -->
 					<div class="cd-projects-wrapper">
 						<ul class="cd-slider">
@@ -121,8 +122,10 @@
 						<ul class="cd-slider-navigation cd-img-replace">
 							<li><a href="#0" class="prev inactive">Prev</a></li>
 							<li><a href="#0" class="next">Next</a></li>
-						</ul> <!-- .cd-slider-navigation -->
-					</div> <!-- .cd-projects-wrapper -->
+						</ul>
+						<!-- .cd-slider-navigation -->
+					</div>
+					<!-- .cd-projects-wrapper -->
 
 					<!-- Project content -->
 					<div class="cd-project-content project-1">
@@ -137,7 +140,8 @@
 							</div>
 						</div>
 						<a href="#0" class="close cd-img-replace">Close</a>
-					</div> <!-- .cd-project-content -->
+					</div>
+					<!-- .cd-project-content -->
 					<div class="cd-project-content project-2">
 						<div>
 							<div class="">
@@ -150,7 +154,8 @@
 							</div>
 						</div>
 						<a href="#0" class="close cd-img-replace">Close</a>
-					</div> <!-- .cd-project-content -->
+					</div>
+					<!-- .cd-project-content -->
 					<div class="cd-project-content project-3">
 						<div>
 							<div class="">
@@ -164,7 +169,8 @@
 							</div>
 						</div>
 						<a href="#0" class="close cd-img-replace">Close</a>
-					</div> <!-- .cd-project-content -->
+					</div>
+					<!-- .cd-project-content -->
 				</div>
 				<span class="cd-img-replace close new">close</span>
 			</section>
@@ -175,73 +181,73 @@
 				<div class="bl-content serv">
 					<h2>Service is not available yet...</h2>
 					<section class="pricing-section bg-10">
-            <h2 class="pricing-section__title">Services</h2>
-            <div class="pricing pricing--rabten">
-                <div class="pricing__item">
-                    <div class="icon icon--home"></div>
-                    <h3 class="pricing__title">HTML5 Template</h3>
-                    <p class="pricing__sentence">Get Html5 Template like mine</p>
-                    <div class="pricing__price">
-                        <span class="pricing__anim pricing__anim--1">
+						<h2 class="pricing-section__title">Services</h2>
+						<div class="pricing pricing--rabten">
+							<div class="pricing__item">
+								<div class="icon icon--home"></div>
+								<h3 class="pricing__title">HTML5 Template</h3>
+								<p class="pricing__sentence">Get Html5 Template like mine</p>
+								<div class="pricing__price">
+									<span class="pricing__anim pricing__anim--1">
 								<span class="pricing__currency">$</span>15
-                        </span>
-                        <span class="pricing__anim pricing__anim--2">
+									</span>
+									<span class="pricing__anim pricing__anim--2">
 								<span class="pricing__period">per template</span>
-                        </span>
-                    </div>
-<!--
+									</span>
+								</div>
+								<!--
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">1 GB of space</li>
                         <li class="pricing__feature">Support at $25/hour</li>
                         <li class="pricing__feature">Small social media package</li>
                     </ul>
 -->
-                    <button class="pricing__action">Get It</button>
-                </div>
-                <div class="pricing__item">
-                    <div class="icon icon--store"></div>
-                    <h3 class="pricing__title">Online Shop</h3>
-                    <p class="pricing__sentence">Want Online Shop like this: <a href="http://shop.widiyanata.com">demo</a></p>
-                    <div class="pricing__price">
-                        <span class="pricing__anim pricing__anim--1">
+								<button class="pricing__action">Get It</button>
+							</div>
+							<div class="pricing__item">
+								<div class="icon icon--store"></div>
+								<h3 class="pricing__title">Online Shop</h3>
+								<p class="pricing__sentence">Want Online Shop like this: <a href="http://shop.widiyanata.com">demo</a></p>
+								<div class="pricing__price">
+									<span class="pricing__anim pricing__anim--1">
 								<span class="pricing__currency">$</span>799
-                        </span>
-                        <span class="pricing__anim pricing__anim--2">
+									</span>
+									<span class="pricing__anim pricing__anim--2">
 								<span class="pricing__period">per project</span>
-                        </span>
-                    </div>
-<!--
+									</span>
+								</div>
+								<!--
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">5 GB of space</li>
                         <li class="pricing__feature">Free support</li>
                         <li class="pricing__feature">Full social media package</li>
                     </ul>
 -->
-                    <button class="pricing__action">Get It</button>
-                </div>
-                <div class="pricing__item">
-                    <div class="icon icon--apartment"></div>
-                    <h3 class="pricing__title">Coming Soon..</h3>
-                    <p class="pricing__sentence">Avalaible Soon</p>
-                    <div class="pricing__price">
-                        <span class="pricing__anim pricing__anim--1">
+								<button class="pricing__action">Get It</button>
+							</div>
+							<div class="pricing__item">
+								<div class="icon icon--apartment"></div>
+								<h3 class="pricing__title">Coming Soon..</h3>
+								<p class="pricing__sentence">Avalaible Soon</p>
+								<div class="pricing__price">
+									<span class="pricing__anim pricing__anim--1">
 								<span class="pricing__currency">$</span>9999
-                        </span>
-                        <span class="pricing__anim pricing__anim--2">
+									</span>
+									<span class="pricing__anim pricing__anim--2">
 								<span class="pricing__period">---</span>
-                        </span>
-                    </div>
-<!--
+									</span>
+								</div>
+								<!--
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited space</li>
                         <li class="pricing__feature">Free support</li>
                         <li class="pricing__feature">Full social media package</li>
                     </ul>
 -->
-<!--                    <button class="pricing__action">Get It</button>-->
-                </div>
-            </div>
-        	</section>
+								<!--                    <button class="pricing__action">Get It</button>-->
+							</div>
+						</div>
+					</section>
 
 				</div>
 				<span class="cd-img-replace close new">close</span>
@@ -254,84 +260,97 @@
 
 					<!-- CONTACT SECTION START -->
 					<div class="row text-center header animate-in" data-anim-type="fade-in-up">
-							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-									<h3>Contact Details </h3>
-									<hr/>
-							</div>
+						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+							<h3>Contact Details </h3>
+							<hr/>
+						</div>
 					</div>
 					<div class="row animate-in" data-anim-type="fade-in-up">
-							<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-									<div class="contact-wrapper">
-											<h3>Get in touch</h3>
-											<p>
-													If you have any question, or just say hai. Don't hesitate to contact me.
-											</p>
-											<div class="social-below">
-													<a href="https://www.facebook.com/widdynata.eemsatu" class="btn button-custom btn-custom-two"> Facebook</a>
-													<a href="#" class="btn button-custom btn-custom-two"> Twitter</a>
-													<a href="#" class="btn button-custom btn-custom-two"> Google +</a>
-											</div>
-									</div>
+						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+							<div class="contact-wrapper">
+								<h3>Get in touch</h3>
+								<p>
+									If you have any question, or just say hai. Don't hesitate to contact me.
+								</p>
+								<div class="social-below">
+									<a href="https://www.facebook.com/widdynata.eemsatu" class="btn button-custom btn-custom-two"> Facebook</a>
+									<a href="#" class="btn button-custom btn-custom-two"> Twitter</a>
+									<a href="#" class="btn button-custom btn-custom-two"> Google +</a>
+								</div>
 							</div>
-							<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-									<div class="contact-wrapper">
-											<h3>Quick Contact</h3>
-											<h4><strong>Email : </strong> widyanata48@gmail.com </h4>
-											<h4><strong>Call : </strong> +6289648230696 </h4>
-<!--											<h4><strong>Skype : </strong> YourSkypeHere </h4>-->
-									</div>
+						</div>
+						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+							<div class="contact-wrapper">
+								<h3>Quick Contact</h3>
+								<h4><strong>Email : </strong> widyanata48@gmail.com </h4>
+								<h4><strong>Call : </strong> +6289648230696 </h4>
+								<!--											<h4><strong>Skype : </strong> YourSkypeHere </h4>-->
 							</div>
-							<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-									<div class="contact-wrapper">
-											<h3>Address : </h3>
-											<h4>Rajabasa, Bandar Lampung</h4>
-											<h4>Indonesia</h4>
-									</div>
+						</div>
+						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+							<div class="contact-wrapper">
+								<h3>Address : </h3>
+								<h4>Rajabasa, Bandar Lampung</h4>
+								<h4>Indonesia</h4>
 							</div>
+						</div>
 					</div>
 					<!--CONTACT SECTION END-->
 
 					<div class="contact-form" style='display: none'>
 
-							<div class="form-wrapper">
+						<div class="form-wrapper">
 
-								<h3>Get in touch</h3>
+							<h3>Get in touch</h3>
 
-								<form class="form">
-									<ul>
-<!--
+							<form class="form">
+								<ul>
+									<!--
 										<li>woo-commerce<input type="radio" id="woo-commerce" name="woo-commerce" value="woo-commerce"></li>
 										<li>psd to html5<input type="radio" id="template" name="template" value="template"></li>
 										<li>custom website<input type="radio" id="custom" name="custom" value="custom"></li>
 										<li>or just say hai..<input type="radio" id="hai" name="hai" value="hai"></li>
 -->
-										<li><input type="text" id="name" name="name" placeholder="name"></li>
-										<li><input type="text" id="email" name="email" placeholder="email"></li>
-										<li><textarea name="message" id="message" cols="30" rows="10" placeholder="message"></textarea></li>
-										<li><button type="submit" value="Submit" id="submit-form">Submit</button></li>
-									</ul>
-								</form>
-							</div>
-							<div class="details">
-								<ul>
-									<li><a class="fa fa-facebook" href="#"></a><span>facebook</span></li>
-									<li><a class="fa fa-google-plus" href="#"></a><span>google plus</span></li>
-									<li><a class="fa fa-phone" href="#"></a><span>0896-4823-0696</span></li>
+									<li>
+										<input type="text" id="name" name="name" placeholder="name">
+									</li>
+									<li>
+										<input type="text" id="email" name="email" placeholder="email">
+									</li>
+									<li>
+										<textarea name="message" id="message" cols="30" rows="10" placeholder="message"></textarea>
+									</li>
+									<li>
+										<button type="submit" value="Submit" id="submit-form">Submit</button>
+									</li>
 								</ul>
-							</div>
-
+							</form>
 						</div>
+						<div class="details">
+							<ul>
+								<li>
+									<a class="fa fa-facebook" href="#"></a><span>facebook</span></li>
+								<li>
+									<a class="fa fa-google-plus" href="#"></a><span>google plus</span></li>
+								<li>
+									<a class="fa fa-phone" href="#"></a><span>0896-4823-0696</span></li>
+							</ul>
+						</div>
+
 					</div>
+				</div>
 				<span class="cd-img-replace close new">close</span>
 			</section>
 		</div>
 
-	</div><!-- /container -->
+	</div>
+	<!-- /container -->
 
-<!--	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>-->
+	<!--	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>-->
 	<script src="assets/js/jquery-2.1.1.min.js"></script>
-<!--	<script src="js/boxlayout.js"></script>-->
+	<!--	<script src="js/boxlayout.js"></script>-->
 	<script src="assets/js/main.js"></script>
-<!--	<script src="js/custom.js"></script>-->
-	</body>
+	<!--	<script src="js/custom.js"></script>-->
+</body>
+
 </html>

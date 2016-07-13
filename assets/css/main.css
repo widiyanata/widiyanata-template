@@ -771,6 +771,7 @@ Projects Slider
 	padding-top: 10vh;
 	height: 100%;
 	overflow-y: auto;
+	padding-left: 0;
 }
 
 .projects-visible .cd-slider {
@@ -1568,16 +1569,16 @@ ul#bl-work-items {
 
 .img {
 	width: 30%;
-	float: right;
+	float: left;
 	border-radius: 10px;
 	overflow: hidden;
 }
 
 .desc {
-	float: left;
+	float: right;
 	width: 70%;
 	padding-top: 100px;
-	text-align: right;
+	text-align: left;
 }
 
 .desc p {
@@ -1649,6 +1650,10 @@ ul#bl-work-items {
 	#header h2 {
 		font-size: 2em;
 	}
+
+	.img, .desc {
+		width: 100%;
+	}
 }
 
 #header h2 {
@@ -1673,12 +1678,14 @@ ul#bl-work-items {
 }
 
 .more {
+	/*
 	padding: 20px;
 	background-color: transparent;
 	border: 1px solid #fa987d;
 	color: #fa987d;
-	/*	display: none;*/
+		display: none;
 	cursor: context-menu;
+*/
 }
 
 .work {
